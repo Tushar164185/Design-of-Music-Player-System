@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Nunito+Sans:opsz,wght@6..12,600;6..12,1000&family=Open+Sans:ital,wght@1,700&family=Poppins:wght@600&family=REM:wght@300;500&family=Rubik:wght@800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Nunito+Sans:opsz,wght@6..12,800;6..12,1000&family=Open+Sans:ital,wght@1,700&family=REM:wght@300;500&family=Rubik:wght@800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Roboto:wght@700;900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700;900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Nunito+Sans:opsz,wght@6..12,1000&family=Open+Sans:ital,wght@1,700&family=REM:wght@300&family=Rubik:wght@800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Nunito+Sans:opsz,wght@6..12,1000&family=Open+Sans:ital,wght@1,700&family=REM:wght@300&family=Rubik:wght@800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Nunito+Sans:opsz,wght@6..12,1000&family=Open+Sans:ital,wght@1,700&family=REM:wght@300&family=Rubik:wght@800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Nunito+Sans:opsz,wght@6..12,1000&family=Open+Sans:ital,wght@1,700&family=REM:wght@300&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Open+Sans:ital,wght@1,700&family=REM:wght@300&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Open+Sans:ital,wght@1,700&family=REM:wght@300&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Open+Sans&family=REM:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon"  href="ASSESTS/logo.png">
+    <title>open.Spotify.com</title>
+</head>
+<body id="body">
+    <div id="website">
+        <div id="firstbar">
+            <div id="homeicon"><i class="fa-sharp fa-solid fa-house"></i></div>
+            <div id="home">Home</div>
+            <div id="searchicon"><i class="fa fa-light fa-magnifying-glass"></i></i></div>
+            <div id="search">Search</div>
+        </div>
+        <div id="secondbar">
+            <div id="library">
+                <div id="libraryicon"><i class="fa fa-solid fa-folder-open"></i></div>
+                <div id="yourtext">Your Library</div>
+                <div id="plus"><i class="fa fa-thin fa-plus"></i></div>
+            </div>
+            <div id="secondpart">
+                <div id="create">Create your first playlist</div>
+                <div id="scroll">
+
+                <div id="easy">It's easy,we'll help you</div>
+                <div id="button1"><button type="submit" id="button2">Create playlist</button></div>
+            </div>
+            <div id="thirdpart">
+                <div id="lets">Let's find some podcast to follow</div>
+                <div id="will">We'll keep you updated on new episodes</div>
+                <button type="submit" id="button3">Browser podcasts</button>
+
+            </div>
+            <div id="cookies">Cookies</div>
+            <button type="submit" id="button4">
+
+            <div id="english">
+                <div id="world"><i class="fa fa-sharp fa-light fa-globe"></i></div>
+                <div id="en">English</div>
+            </div>
+            </button>
+            
+        </div>
+        
+            
+        </div>
+        <div id="audiobook">
+            <nav id="nav2">
+                <div id="rightarrow"><i class="fa fa-light fa-chevron-right"></i></div>
+                <div id="leftarrow"><i class="fa fa-light fa-chevron-left"></i></div>
+                <div id="signup">Sign up</div>
+                <button type="submit" id="button6"><div id="log">Log in</div></button>
+            </nav>
+            <div id="playlists">
+                <div id="playlist1">
+                    <div id="focus">Focus</div>
+                    <div id="all">Show all</div>
+                    <div id="cardcontainer1">
+                        <div id="card1container1">
+                            <div id="img1card1"></div>
+                            <h3 id="h3">Peaceful Panio</h3>
+                            <p1>Peaceful panio to help you
+                                <br>
+                                 slow down,breathe,and....</p1>
+                            <div id="play1"></div>
+
+                        </div>
+                        <div id="card2container1">
+                            <div id="img2card2"></div>
+                            <h3 id="h4">Deep Focus</h3>
+                            <p2>Keep calm and focus with
+                                <br>ambient and post-rock....
+                            </p2>
+                            <div id="play2"></div>
+
+                        </div>
+                        <div id="card3container1">
+                            <div id="img3card3"></div>
+                            <h3 id="h5">Instrumental Study</h3>
+                            <p3>Focus with soft study <br>music in the background.</p3>
+                            <div id="play3"></div>
+                        </div>
+                        <div id="card4container1">
+                            <div id="img4card4"></div>
+                            <h3 id="h6">Focus Flow</h3>
+                            <p4>Untempo intrumental hip <br>hop beats.</p4>
+                            <div id="play4"></div>
+                        </div>
+                        <div id="card5container1">
+                            <div id="img5card5"></div>
+                            <h3 id="h7">Beats to think to</h3>
+                            <p5>Focus with deep techno <br>tech house.</p5>
+                            <div id="play5"></div>
+                        </div>
+                    </div>
+                   
+                            </div>
+                            <div id="playlist2">
+                                <h3 id="playheading">Spotify Playlists</h3>
+                                <div id="all2">Show all</div>
+                                <div id="cardcontainer2">
+                                    <div id="card1container2">
+                                        <div id="img1card1container2"></div>
+                                        <h3 id="h8">Today's Top Hits</h3>
+                                        <p6>Post Malone is on top of <br>the Hottest 50!</p6>
+                                        <div id="play6"></div>
+                        </div>
+                        <div id="card2container2">
+                            <div id="img1card2container2"></div>
+                            <h3 id="h9">RapCaviar</h3>
+                            <p7>New music from Travis <br>Scott,Drake,Central Ce....</p7>
+                            <div id="play7"></div>
+                        </div>
+                        <div id="card3container2">
+                            <div id="img1card3container2"></div>
+                            <h3 id="h10">All Out 2010s</h3>
+                        <p8>The biggest song of the <br> 2010s.</p8>
+                        <div id="play8"></div>
+                        </div>
+                        <div id="card4container2">
+                            <div id="img1card4container2"></div>
+                            <h3 id="h11">Rock Classics</h3>
+                            <p9>Rock legends & epic songs <br> that continue to inspire...</p9>
+                                <div id="play10"></div>
+                        </div> 
+                        <div id="card5container2">
+                            <div id="img1card5container2"></div>
+                            <h3 id="h12">Chill Hits</h3>
+                            <p10>Kick back to the best new <br> and recent chill hits.</p10>
+                            <div id="play10"></div>
+                        </div>
+
+                        
+
+                    </div>
+                </div>
+               
+            </div>
+            <div id="playlist3">
+                <h2 id="sounds">Sounds of India</h2>
+                <div id="all3">Show all</div>
+                <div id="cardcontainer3">
+            <div id="card1container3">
+                <div id="img1card1container3"></div>
+                <h2 id="h13">The Sound of Mumbai...</h2>
+                <p11>The songs that define,<br>unite and distinguish..</p11>
+                <div id="play11"></div>
+            </div>
+            <div id="card2container3">
+                <div id="img1card2container3"></div>
+                <h2 id="h14">The Sounds of Kolkata...</h2>
+                <p12>The songs that define,<br>unite and distinguish..</p12>
+                <div id="play12"></div>
+            </div>
+            <div id="card3container3">
+                <div id="img1card3container3"></div>
+                <h2 id="h15">The Sounds of Delhi IN</h2>
+                <P13>The songs that define,<br>unite and distinguish Del..</P13>
+                <div id="play13"></div>
+            </div>
+            <div id="card4container3">
+                <div id="img1card4container3"></div>
+                <h2 id="h16">The Sounds of Chenn...</h2>
+                <p14>The songs that define,<br>unite and distinguish..</p14>
+                <div id="play14"></div>
+            </div>
+            <div id="card5container3">
+                <div id="img1card5container3"></div>
+                <h2 id="h17">The Sounds of Hydera...</h2>
+                <p15>The sounds that define,<br>unite and distinguish..</p15>
+                <div id="play15"></div>
+            </div>
+
+                </div>
+
+            </div>
+            
+        </div>
+        
+        <nav id="pinkblue">
+            <div id="preview">PREVIEW OF SPOTIFY</div>
+            <br>
+            <div id="sign">Sign up to get unlimited songs and podcasts with ocassional ads.No credit card needed.</div>
+            <button type="submit" id="button5">Sign up for free</button>
+        </nav>
+       
+       
+        
+        
+    </div>
+    
+</body>
+</html>
